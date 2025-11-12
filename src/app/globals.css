@@ -14,7 +14,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
+    --background: #ffffff;
     --foreground: #ededed;
   }
 }
@@ -22,5 +22,32 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+.bg-custom {
+  background-color: #ffffff;
+}
+
+.text-white1 {
+  color: #ffffff;
+  text-shadow: 0 0 3px #cbc8c8, 0 0 6px #cbc8c8;
+  transform: rotateX(35deg);
+  transform-origin: bottom center;
+  transform-style: preserve-3d;
+}
+
+.text-white2 {
+  color: white;
+  text-shadow: 0 0 1px #cbc8c8, 0 0 2px #cbc8c8;
+  padding-left: 3.5rem;
+}
+
+.letter-spacer {
+  letter-spacing: 1.5px;
+}
+
+.div-about {
+  border: 2px solid white;
+  padding-top: 50px;
 }

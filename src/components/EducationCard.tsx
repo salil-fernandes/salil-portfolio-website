@@ -7,7 +7,6 @@ interface EducationCardProps {
   degree: string;
   dates: string;
   gpa: string;
-  coursework: string;
 }
 
 export default function EducationCard({
@@ -78,7 +77,7 @@ export default function EducationCard({
           {/* Dates */}
           <p className="text-center text-md text-black mb-6">{dates}</p>
 
-          {/* GPA and Coursework */}
+          {/* GPA */}
           <div className="text-black space-y-2">
             <p className="text-base text-md text-center">
               <span className="font-semibold">GPA:</span> {gpa}

@@ -54,7 +54,7 @@ export default function Home() {
   const skillIcons = [
     "python",
     "javascript",
-    "typeScript",
+    "typescript",
     "java",
     "csharp",
     "aws",

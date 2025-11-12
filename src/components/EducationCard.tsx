@@ -7,7 +7,6 @@ interface EducationCardProps {
   degree: string;
   dates: string;
   gpa: string;
-  coursework: string;
 }
 
 export default function EducationCard({

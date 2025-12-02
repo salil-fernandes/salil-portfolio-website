@@ -285,7 +285,7 @@ export default function Home() {
                   Contact Me
                 </a>
                 <a
-                  href="https://drive.google.com/file/d/1kBs1nTTDwyFDd7rb0wOsWWoT_aKBiHc1/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1KnZLErlGAGBK_EVv5yQQAl-zn_QXjplo/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-6 rounded-full hover:opacity-80 transition-opacity"
@@ -473,8 +473,8 @@ export default function Home() {
                   position="Software Engineer Intern"
                   dates="May 2025 – Present"
                   description={[
-                    "Contributed to the QA and Builds team by developing core game mechanics with .NET C# in Unity while enhancing overall code reliability and quality.",
                     "Developed and optimized CI/CD pipelines using Python, C# and Jenkins scripts to automate builds and integrated testing, reducing deployment time and accelerating agile sprint delivery cycles.",
+                    "Built scalable backend microservices in Node.js, AWS EC2 and PostgreSQL delivering user authentication and a geolocation based emergency connection mapping service, supporting 1500+ monthly active users."
                   ]}
                 />
                 <ExperienceCard

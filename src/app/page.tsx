@@ -285,7 +285,7 @@ export default function Home() {
                   Contact Me
                 </a>
                 <a
-                  href="https://drive.google.com/file/d/1KnZLErlGAGBK_EVv5yQQAl-zn_QXjplo/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1uQT4kEyqs8VYW2C6eoDRlaYPbWQyHMva/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-6 rounded-full hover:opacity-80 transition-opacity"
